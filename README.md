@@ -1,2 +1,2 @@
 # Apps-Manager-Backup-Cracked-Files
-## some file.adbk to crack all VIP
+## some files(.adbk) to crack all VIP
