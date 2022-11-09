@@ -10,3 +10,8 @@
 > >**再安装本仓库ipa文件夹中的Apps Manager.ipa**
 
 > >**观看本仓库视频教程中视频演示使用**
+
+
+# 鸣谢
+[彭于晏](https://github.com/89996462)
+[opa334](https://github.com/opa334)
