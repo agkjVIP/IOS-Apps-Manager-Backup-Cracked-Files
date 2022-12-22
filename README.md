@@ -11,8 +11,17 @@
 
 > >**观看本仓库视频教程中视频演示使用**
 
+## 🔥阿甘导航⤵
 
-# 鸣谢
+### [@阿甘科技的个人导航](https://xydh.fun/gzy20080302)
+### [@阿甘科技的博客](https://agkjvip.github.io/)
+
+## 📢注意⏬
+
+### 1.问题反馈_qq:1565320199
+### 2.点击这里加入👉[qq交流群](https://jq.qq.com/?_wv=1027&k=htFPfS06)   点击这里加入👉[TG交流群](https://t.me/peckios)
+### 3.鸣谢
 [彭于晏](https://github.com/89996462)
 [opa334](https://github.com/opa334)
 [pdc9911](https://github.com/pdc9911)
+
